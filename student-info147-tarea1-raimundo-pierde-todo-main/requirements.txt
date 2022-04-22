@@ -1,0 +1,7 @@
+pandas           == 1.4.1
+numpy            == 1.21.5
+watermark        == 2.3.0
+matplotlib       == 3.5.1
+ipywidgets       == 7.6.5
+pycountry        == 22.3.5
+pycountry_convert== 0.7.2
